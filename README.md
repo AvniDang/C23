@@ -1,2 +1,1 @@
-# C23
-C23 Work
+# Box Class
